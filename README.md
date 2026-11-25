@@ -19,3 +19,5 @@ La section « Derniers épisodes » lit le flux RSS Spotify for Creators à chaq
 
 ## Lecteur intégré
 Chaque épisode possède un lecteur HTML5 alimenté par l’URL audio présente dans le flux RSS. Une seule piste peut jouer à la fois. Si une URL audio manque, un bouton ouvre la page de l’épisode.
+
+Ajout du formulaire Netlify
